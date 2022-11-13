@@ -1,5 +1,3 @@
-# NAME : SURAJ SUBHASH DHAMAK
-# ROLL NO : BECOA140
 
 
 class Node:
